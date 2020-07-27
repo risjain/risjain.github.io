@@ -7,6 +7,7 @@ name: Rishabh Jain
 title: Research Engineer
 email: rishabh.jain@nrel.gov
 website: risjain.github.io
+CV: https://risjain.github.io
 
 # Social links
 #twitter_username: facespics
@@ -24,7 +25,7 @@ linkedin_username: risjain
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Rishabh. I am a research engineer at the National Renewable Energy Laboratory in the Power Systems Engineering Center. I am leading multiple research projects focused on transportation electrification, sustainable grid integration of renewables, networked microgrids, and market opportunities for grid support services. My expertise is in quasi-steady-state and real-time hardware-in-the-loop power system modeling, grid protection from faults, and 
+  Hi, my name is Rishabh. I am a research engineer at the National Renewable Energy Laboratory in the Power Systems Engineering Center. I am leading multiple research projects focused on transportation electrification, sustainable grid integration of renewables, networked microgrids, and market opportunities for grid support services. My expertise is in quasi-steady-state and real-time hardware-in-the-loop power system modeling, grid protection from faults, and, control, design and operation of microgrids. 
 
 # Projects Section
 # projects_title: Projects
@@ -38,11 +39,20 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me1
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Outreach:
+   - Reviewer : Publications in multiple prestigious journals including IEEE Transactions on Power Systems, Power Delivery, Sustainable Energy, IET Generation, and others} 
+   - Facilitator : Assessing Quantum Computing Efforts for Next Generation Energy Research
+   - NREL Point-of-Contact: IEEE Workshop on Quantum Computing Applications for Renewable Energy Systems
+  
+  R&D : 
+   - Research opportunities for residential and commercial scale electrification of light/heavy duty vehicles
+   - Protection of power systems with high renewable penetration
+   - Quantum computing algorithms for applications in autonomous energy systems
+
+  Professional Interests :
+   - Membership : Institute of Electrical and Electronics Engineers (IEEE), International Council for Large Electric Systems (CIGRE)
+   - Toastmasters - Active Member, Secretary and Treasurer (2020)
+
 
 # Footer
 footer_show_references: true
