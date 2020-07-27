@@ -26,8 +26,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Rishabh. I am a research engineer at the National Renewable Energy Laboratory in the Power Systems Engineering Center. I am leading multiple research projects focused on transportation electrification, sustainable grid integration of renewables, networked microgrids, and market opportunities for grid support services. My expertise is in quasi-steady-state and real-time hardware-in-the-loop power system modeling, grid protection from faults, and 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
 # Projects Section
 # projects_title: Projects
 
@@ -38,7 +36,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+# more_title: A Little More About Me1
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Rock climbing
