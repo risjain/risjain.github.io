@@ -1,0 +1,22 @@
+- layout: left
+  name: Ph.D. (Electrical Engineering)
+  dates: 2014 - 2018 (GPA - 4.0/4.0)
+  qualification: North Carolina State University, North Carolina, US
+  description: | # this will include new lines to allow paragraphs
+      - <mark>Dissertation</mark>: Distributed Fault Management for Enhanced Protection and Resiliency of Active Distribution System with Nested Microgrids
+      - <mark>Co-author</mark>ed a book chapter and multiple research papers in peer-reviewed publications
+
+- layout: left
+  name: M.S. (Electrical Engineering)
+  dates: 2012 - 2014 (GPA - 4.0/4.0)
+  qualification: University of Idaho, Idaho, US
+  description: | # this will include new lines to allow paragraphs
+      - <mark>Dissertation</mark>: Grid Integrated Type 3 Wind Systems - Modeling, and Line Protection Performance Analysis using the real-time digital simulator
+      - Co-authored multiple papers in peer-reviewed conferences, and mentored multiple undergraduate students. 
+
+- layout: left
+  name: B.Tech. (Electrical Engineering)
+  dates: 2007 - 2011 (GPA - 7.92/10.0)
+  qualification: Indian Institude of Technology, Dhanbad, India
+#  description: | # this will include new lines to allow paragraphs
+

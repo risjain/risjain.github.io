@@ -1,0 +1,25 @@
+- layout: top-middle
+  name: Shell Gamechanger - Co-ordinated Power/Energy Management Controls for Battery-boosted Fast EV Charging Sites 
+  link: https://gcxnrel.com/intertie-boosts-chargers-to-go-anywhere/
+  quote: >
+    One-of-its-kind partnership with an upcoming start-up in EV fast charging focused on controls and investment decisions.
+  description: | # this will include new lines to allow paragraphs
+    The project focuses on helping CA based Intertie Corp. to evaluate the hardware design and augment grid-support features for their battery boosted fast-charging solution, <mark>EV Chargepod</mark>. We are evaluating the participation opportunities in electricity market using EV Chargepod assets for multiple use-cases with/without EV Chargers for sustainable business cases. Intertie Inc is a CA based electric vehicle (EV) charging company, and one of the NREL powersed Shell GameChanger Accelerator Program.
+
+- layout: top-middle
+  name: Shell Gamechanger - Validating cloud-based optimal asset management for controlled charging of EV fleets for bus depots 
+  link: https://gcxnrel.com/microgrid-labs-solves-the-puzzle-of-fleet-electrification/
+  description: | # this will include new lines to allow paragraphs
+    The project focuses on developing a customer site with a long-haul EV fleets to analyze and improve upon optimal charging schedulers. The objective is to help Microgrid Labs Inc. (MGL) in validate and refine their charging strategies for multiple use-cases for fleet electrification. MGL is a consulting and software company specializing in commercial fleet electrification and microgrids, and is another winner of Shell Gamechanger. 
+
+- layout: top-middle
+  name: Resilient Operation of Networked Microgrids (RONM)
+  link: https://www.osti.gov/biblio/1638627
+  description: | # this will include new lines to allow paragraphs
+    RONM focuses on improving the resiliency of power systems with optimization-based methods that leverage advanced microgrid technologies to reduce system recovery times after extreme event induced outages. This project is a unique, high-fidelity physics-based optimization method for modeling networked microgrids which includes key engineering constraints associated with system recovery after extreme events. Our NREL team is focusing on developing the high-fidelity power system models, along with the microgrid design use-cases and the real-time hardware-in-the-loop test bed for evaluating the optimization based solver.
+
+- layout: top-middle
+  name: Developing Quantum Computation Algorithms for Autonomous Energy System Applications
+#  link: https://gcxnrel.com/microgrid-labs-solves-the-puzzle-of-fleet-electrification/
+  description: | # this will include new lines to allow paragraphs
+    The project focuses on exploring opportunities to achieve quantum computation speedup for power system challenges. The effort is a part of the prestigious pre-transformational Laboratory Directed Research and Development (LDRD) program. The project starts Oct 2020 to conduct fundamental research and develop proof-of-concept demonstrations for applications of quantum algorithms. 
