@@ -23,10 +23,9 @@ linkedin_username: risjain
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
+link: https://risjain.github.io
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Rishabh. I am a research engineer at the National Renewable Energy Laboratory in the Power Systems Engineering Center. I am leading multiple research projects focused on transportation electrification, sustainable grid integration of renewables, networked microgrids, and market opportunities for grid support services. My expertise is in quasi-steady-state and real-time hardware-in-the-loop power system modeling, grid protection from faults, and, control, design and operation of microgrids. 
-
-  For more details, my CV: https://risjain.github.io
 
 # Projects Section
 # projects_title: Projects
