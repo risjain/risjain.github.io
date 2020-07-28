@@ -4,9 +4,9 @@
   job_title: Research Engineer
   dates: October 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    Involved in multiple projects involved in power system modeling, optimal control design, development of real-time and quasi-steady-state test platform development. The outcomes are intended for applications in transportation electrification for delivery fleets, sustainable grid integration of renewables, and exploring alternate energy resources (hydrogen based) for grid support and vehicle fueling. Research outcomes have resulted in new funding opportunities and research collaborations resulting in $1M+ funding through my involvement. I am also leading multiple projects, mentoring others, and co-authoring multiple research papers and one record of invention. 
+    Involved in multiple projects involved in power system modeling, optimal control design, development of real-time and quasi-steady-state test platform development. The outcomes are intended for applications in transportation electrification for delivery fleets, sustainable grid integration of renewables, and exploring alternate energy resources (hydrogen based) for grid support and vehicle fueling. Research outcomes have resulted in new funding opportunities and research collaborations resulting in $1M+ funding through my involvement. I am also leading multiple projects, mentoring others, and co-authoring multiple research papers and one record of invention.
 
-- layout: left
+- layout: right
   company: National Renewable Energy Laboratory
   link: https://www.nrel.gov/grid
   job_title: Research Intern
@@ -22,18 +22,18 @@
   description: | # this will include new lines to allow paragraphs
     As a RA, Involved in multiple projects involved in microgrid design and control, lifetime assesment of storage cells, and reconfiguration and adaptive protection of distribution systems with high renewable penetration. The outcomes helped me defend my doctoral dissertation and multiple peer-reviewed publications. As a TA, I have helped redesign the protection systems lab setup, upgrade and develop new curicullum for lab courses.
 
-- layout: left
+- layout: right
   company: Schweitzer Engineering Laboratories Inc.
   link: https://www.selinc.com
   job_title: Research Engineer Intern
   dates: May 2013 - July 2014
   description: | # this will include new lines to allow paragraphs
-    Involved in numerous development and debugging projects to help the lead engineers analyze power system disturbances, and develop new protection algorithms. This effort resulted in multiple publications over the brief 15-month period, and a long-standing relationship with my former mentors.
+    Executed multiple development and modeling projects to help the lead engineers analyze power system disturbances, and develop new protection algorithms. This effort resulted in multiple publications over the brief 15-month period, and a long-standing relationship with my former mentors.
 
 - layout: left
   company: Department of ECE, University of Idaho
-  link: https://www.selinc.com
+  #link: https://www.selinc.com
   job_title: Teaching Assistant
   dates: August 2012 - May 2013
   description: | # this will include new lines to allow paragraphs
-    Involved in numerous development and debugging projects to help the lead engineers analyze power system disturbances, and develop new protection algorithms. This effort resulted in multiple publications over the brief 15-month period, and a long-standing relationship with my former mentors.
+    

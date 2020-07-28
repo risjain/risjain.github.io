@@ -21,6 +21,12 @@ linkedin_username: risjain
 # googleplus_username: +jekyll
 orcid_username: 0000-0001-5457-3929
 
+additional_links:
+- title: Google Scholar
+  icon: Scholar (https://scholar.google.com/citations/images/avatar_scholar_128.png)
+  url: Link url (https://scholar.google.com/citations?user=8YvHALEAAAAJ)
+
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
