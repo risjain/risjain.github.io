@@ -19,6 +19,7 @@ linkedin_username: risjain
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
+orcid_username: 0000-0001-5457-3929
 
 # About Section
 # about_title: About Me
@@ -37,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me1
+more_title: Outreach and Interests
 more_content: | # this will include new lines to allow paragraphs
   Outreach:
    - Reviewer : Publications in multiple prestigious journals including IEEE Transactions on Power Systems, Power Delivery, Sustainable Energy, IET Generation, and others} 
