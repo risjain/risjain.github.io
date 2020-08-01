@@ -10,9 +10,10 @@
   company: National Renewable Energy Laboratory
   link: https://www.nrel.gov/grid
   job_title: Research Intern
-  dates: May 2018 - July 2018
+  dates: Term 1 - May-Aug 2015, Term 2 - May-July 2018
   description: | # this will include new lines to allow paragraphs
-    Involved in two projects focused on i) sustainable fleet electrification for delivery businesses, and, ii) Grid support using hydrogen based electrolyzers for distribution systems with high PV penetration. Outcomes resulted in sustained funding for future research in the area, and early benchmark test platform development for evaluating fleet electrification use-cases.
+    - Term 1: Involved in a diverse body of projects involving 1) Review of power and energy reserve requirements for large systems (book chapter published), 2) Proving the sensitivity of the system stability to fault location given the location of DERs (conference publication), and 3) Use of support-vector machines to improve wind power forecast with added consideration of wind turbulence.    
+    - Term 2: Involved in two projects focused on i) sustainable fleet electrification for delivery businesses, and, ii) Grid support using hydrogen based electrolyzers for distribution systems with high PV penetration. Outcomes resulted in sustained funding for future research in the area, and early benchmark test platform development for evaluating fleet electrification use-cases.
 
 - layout: left
   company: North Carolina State University
@@ -20,7 +21,9 @@
   job_title: Research Assistant (RA), Teaching Assistant (TA)
   dates: August 2014 - July 2017, August 2017 - May 2018
   description: | # this will include new lines to allow paragraphs
-    As a RA, Involved in multiple projects involved in microgrid design and control, lifetime assesment of storage cells, and reconfiguration and adaptive protection of distribution systems with high renewable penetration. The outcomes helped me defend my doctoral dissertation and multiple peer-reviewed publications. As a TA, I have helped redesign the protection systems lab setup, upgrade and develop new curicullum for lab courses.
+    - As a RA, involved in multiple projects focused on microgrid design and control, lifetime assesment of storage cells, and reconfiguration and adaptive protection of distribution systems with high renewable penetration. The outcomes helped me defend my doctoral dissertation and multiple peer-reviewed publications. 
+      o My use-case contributions to Electrocon's CAPE - a well known power system protection analysis tool - resulted in a 1-year support from Electrocon for FREEDM Systems Center with software license, and help from their researchers developing their new TS-Link Module.
+    - As a TA, I have been actively involved in helping develop the course curriculum, deliver lectures, in addition to my responsibilities as an lab instructor and grader. I also helped redesign the protection systems lab setup, and utilized my previous experience from Schweitzer Engineering Labs as a protection engineer - to upgrade the lab exercise outcomes and procedures to industry standards.
 
 - layout: right
   company: Schweitzer Engineering Laboratories Inc.
@@ -28,12 +31,15 @@
   job_title: Research Engineer Intern
   dates: May 2013 - July 2014
   description: | # this will include new lines to allow paragraphs
-    Executed multiple development and modeling projects to help the lead engineers analyze power system disturbances, and develop new protection algorithms. This effort resulted in multiple publications over the brief 15-month period, and a long-standing relationship with my former mentors.
+    Executed multiple development and modeling projects to help the lead engineers analyze power system disturbances, and develop new protection algorithms. 
+    - Responsible for developing low-voltage control test setup and hardware evaluation for validating the simulation results.
+    - Well regarded for my knack to develop robust, scalable and automated test routines - which allowed our research group to perform rigourous testing and validations involving both hardware/software safely.
+    - The efforts resulted in multiple publications over my 15-month internship, and a long-standing relationship with my former mentors.
 
 - layout: left
   company: Department of ECE, University of Idaho
   #link: https://www.selinc.com
   job_title: Teaching Assistant
   dates: August 2012 - May 2013
-  description: | # this will include new lines to allow paragraphs
+  descri ption: | # this will include new lines to allow paragraphs
     
