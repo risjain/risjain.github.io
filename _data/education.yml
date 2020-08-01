@@ -5,6 +5,8 @@
   description: | # this will include new lines to allow paragraphs
       - <mark>Dissertation</mark>: Distributed Fault Management for Enhanced Protection and Resiliency of Active Distribution System with Nested Microgrids
       - <mark>Co-author</mark>ed a book chapter and multiple research papers in peer-reviewed publications
+      - Mentored multiple graduate students in developing hardware-in-the-loop tests for real-time control validation.
+      - Represented my lab, FREEDM Systems Center for multiple annual reviews of our project on Cyber-physical systems from National Science Foundation at Arlington, VA.  
 
 - layout: left
   name: M.S. (Electrical Engineering)
@@ -12,11 +14,15 @@
   qualification: University of Idaho, Idaho, US
   description: | # this will include new lines to allow paragraphs
       - <mark>Dissertation</mark>: Grid Integrated Type 3 Wind Systems - Modeling, and Line Protection Performance Analysis using the real-time digital simulator
-      - Co-authored multiple papers in peer-reviewed conferences, and mentored multiple undergraduate students. 
+      - Co-authored multiple papers in peer-reviewed conferences, and mentored five undergraduate students towards designing a net-zero energy plan for a summer camp in Cascade, ID. 
+      - Lab Instructor - Power Systems Protection Laboratory, Electrical Machines.
 
 - layout: left
   name: B.Tech. (Electrical Engineering)
   dates: 2007 - 2011 (GPA - 7.92/10.0)
   qualification: Indian Institude of Technology, Dhanbad, India
-#  description: | # this will include new lines to allow paragraphs
+  description: | # this will include new lines to allow paragraphs
+      - Trained as an electrical engineer, with specialization in power system operation, control system design, and abstraction of power electronic devices.
+      - Winner of multiple awards for developing and presentating collaborative projects focusing on business and technological use-cases for improving renewable energy penetration. 
+      - Co-organizer, workshop co-ordinator and lead designer for IIT-DHN's annual techfest - SPARX'2010.
 
