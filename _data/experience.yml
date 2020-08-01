@@ -4,7 +4,7 @@
   job_title: Research Engineer
   dates: October 2018 - Present
   description: | # this will include new lines to allow paragraphs
-    Involved in multiple projects involved in power system modeling, optimal control design, development of real-time and quasi-steady-state test platform development. The outcomes are intended for applications in transportation electrification for delivery fleets, sustainable grid integration of renewables, and exploring alternate energy resources (hydrogen based) for grid support and vehicle fueling. Research outcomes have resulted in new funding opportunities and research collaborations resulting in $1M+ funding through my involvement. I am also leading multiple projects, mentoring others, and co-authoring multiple research papers and one record of invention.
+    Involved in multiple projects involved in power system modeling, <mark>optimal control design</mark>, development of <mark>real-time</mark> and <mark>quasi-steady-state test platform</mark> development. The outcomes are intended for applications in transportation electrification for <mark>delivery vehicle</mark> fleets, <mark>sustainable grid integration of renewables</mark>, and exploring alternate energy resources (hydrogen based) for <mark>grid support</mark> and <mark>vehicle fueling</mark>. Research outcomes have resulted in new funding opportunities and research collaborations resulting in $1M+ funding through my involvement. I am also leading multiple projects, mentoring others, and co-authoring multiple research papers and one record of invention.
 
 - layout: right
   company: National Renewable Energy Laboratory
@@ -12,8 +12,8 @@
   job_title: Research Intern
   dates: Term 1 - May-Aug 2015, Term 2 - May-July 2018
   description: | # this will include new lines to allow paragraphs
-    - Term 1: Involved in a diverse body of projects involving 1) Review of power and energy reserve requirements for large systems (book chapter published), 2) Proving the sensitivity of the system stability to fault location given the location of DERs (conference publication), and 3) Use of support-vector machines to improve wind power forecast with added consideration of wind turbulence.    
-    - Term 2: Involved in two projects focused on i) sustainable fleet electrification for delivery businesses, and, ii) Grid support using hydrogen based electrolyzers for distribution systems with high PV penetration. Outcomes resulted in sustained funding for future research in the area, and early benchmark test platform development for evaluating fleet electrification use-cases.
+    - Term 1: Involved in a diverse body of projects involving 1) Review of power and energy reserve requirements for bulk power systems (book chapter published), 2) Proving the sensitivity of the <mark>system stability</mark> to fault location given the location of DERs (conference publication), and 3) Use of <mark>support-vector machines</mark> to improve wind power forecast with added consideration of wind turbulence.    
+    - Term 2: Involved in two projects focused on i) <mark>sustainable fleet electrification</mark> for delivery businesses, and, ii) <mark>Grid ancillary service</mark> support using hydrogen based electrolyzers for distribution systems with <mark>high PV penetration</mark>. Outcomes resulted in sustained funding for future research in the area, and early benchmark test platform development for evaluating fleet electrification use-cases.
 
 - layout: left
   company: North Carolina State University
@@ -21,8 +21,8 @@
   job_title: Research Assistant (RA), Teaching Assistant (TA)
   dates: August 2014 - July 2017, August 2017 - May 2018
   description: | # this will include new lines to allow paragraphs
-    - As a RA, involved in multiple projects focused on microgrid design and control, lifetime assesment of storage cells, and reconfiguration and adaptive protection of distribution systems with high renewable penetration. The outcomes helped me defend my doctoral dissertation and multiple peer-reviewed publications. 
-      o My use-case contributions to Electrocon's CAPE - a well known power system protection analysis tool - resulted in a 1-year support from Electrocon for FREEDM Systems Center with software license, and help from their researchers developing their new TS-Link Module.
+    - As a RA, involved in multiple projects focused on microgrid design and control, <mark>lifetime assesment of storage cells</mark>, and <mark>reconfiguration</mark> and <mark>adaptive protection</mark> of distribution systems with <mark>high renewable penetration</mark>. The outcomes helped me defend my doctoral dissertation and multiple peer-reviewed publications. 
+      o My use-case contributions to Electrocon's CAPE - a well known power system protection analysis tool - resulted in a <mark>1-year support</mark> from Electrocon for FREEDM Systems Center with software license, and help from their researchers developing their new TS-Link Module.
     - As a TA, I have been actively involved in helping develop the course curriculum, deliver lectures, in addition to my responsibilities as an lab instructor and grader. I also helped redesign the protection systems lab setup, and utilized my previous experience from Schweitzer Engineering Labs as a protection engineer - to upgrade the lab exercise outcomes and procedures to industry standards.
 
 - layout: right
@@ -32,9 +32,9 @@
   dates: May 2013 - July 2014
   description: | # this will include new lines to allow paragraphs
     Executed multiple development and modeling projects to help the lead engineers analyze power system disturbances, and develop new protection algorithms. 
-    - Responsible for developing low-voltage control test setup and hardware evaluation for validating the simulation results.
-    - Well regarded for my knack to develop robust, scalable and automated test routines - which allowed our research group to perform rigourous testing and validations involving both hardware/software safely.
-    - The efforts resulted in multiple publications over my 15-month internship, and a long-standing relationship with my former mentors.
+    - Responsible for developing <mark>low-voltage control test setup</mark> and hardware evaluation for validating the simulation results.
+    - Well regarded for my knack to develop robust, <mark>scalable and automated test routines</mark> - which allowed our research group to perform rigourous testing and validations involving both hardware/software safely.
+    - The efforts resulted in <mark>multiple publications</mark> over my 15-month internship, and a long-standing relationship with my former mentors.
 
 - layout: left
   company: Department of ECE, University of Idaho
@@ -42,8 +42,8 @@
   job_title: Teaching Assistant
   dates: August 2012 - May 2013
   description: | # this will include new lines to allow paragraphs
-    - Instructor for Machines and Protection Lab Course
-    - Graduate student mentor for Senior Design Project team focusing on designing a net-zero case for a summer camp in Cascade, ID.
+    - <mark>Instructor</mark> for Machines and Protection Lab Course
+    - <mark>Graduate student mentor</mark> for Senior Design Project team focusing on designing a net-zero case for a summer camp in Cascade, ID.
     - Redesigned the laboratory manual submission rubric and end-of-the-term examination format resulting in better reports and examinations combining theoretical and practical concepts. 
-    - Voted 2nd - Graduate Teaching Assistant Award at University of Idaho.
+    - Voted 2nd - <mark>Graduate Teaching Assistant Award</mark> at University of Idaho.
     
