@@ -5,7 +5,7 @@
 # Personal info
 name: Rishabh Jain
 title: Research Engineer
-email: rishabh.jain@nrel.gov
+#email: rishabh.jain@nrel.gov
 website: risjain.github.io
 
 # Social links
@@ -23,8 +23,11 @@ orcid_username: 0000-0001-5457-3929
 
 additional_links:
 - title: Google Scholar
-  icon: Scholar (https://scholar.google.com/citations/images/avatar_scholar_128.png)
+  icon: https://scholar.google.com/citations/images/avatar_scholar_128.png
   url: https://scholar.google.com/citations?user=8YvHALEAAAAJ
+- title: Email
+  icon: https://scholar.google.com/citations/images/avatar_scholar_128.png
+  url: https://docs.google.com/forms/d/e/1FAIpQLSd8ffk7m9HMW_GGiCFigIL5msEmNklDI0OezFy8e0E2lEocqg/formResponse
 
 
 # About Section
