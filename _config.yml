@@ -26,7 +26,7 @@ additional_links:
   icon: https://scholar.google.com/citations/images/avatar_scholar_128.png
   url: https://scholar.google.com/citations?user=8YvHALEAAAAJ
 - title: Email
-  icon: https://github.com/risjain/risjain.github.io/blob/master/images/email.png
+  icon: fa-envelope-open-text
   url: https://docs.google.com/forms/d/e/1FAIpQLSd8ffk7m9HMW_GGiCFigIL5msEmNklDI0OezFy8e0E2lEocqg/formResponse
 
 
