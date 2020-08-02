@@ -1,11 +1,11 @@
 # Site
-#repository: sproogen/resume-theme
+repository: risjain/modern-resume-theme
 #favicon: images/favicon.ico
 
 # Personal info
 name: Rishabh Jain
 title: Research Engineer
-#email: rishabh.jain@nrel.gov
+#email: 
 website: risjain.github.io
 
 # Social links
@@ -20,6 +20,8 @@ linkedin_username: risjain
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 orcid_username: 0000-0001-5457-3929
+google_scholar_id: 8YvHALEAAAAJ
+email_via_form: https://docs.google.com/forms/d/e/1FAIpQLSd8ffk7m9HMW_GGiCFigIL5msEmNklDI0OezFy8e0E2lEocqg/formResponse
 
 additional_links:
 - title: Link name
@@ -74,7 +76,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: risjain/modern-resume-theme
 
 sass:
   sass_dir: _sass
