@@ -24,17 +24,8 @@ google_scholar_id: 8YvHALEAAAAJ
 email_via_form: https://docs.google.com/forms/d/e/1FAIpQLSd8ffk7m9HMW_GGiCFigIL5msEmNklDI0OezFy8e0E2lEocqg/formResponse
 
 additional_links:
-- title: Link name
-  icon: fa-at (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (https://google.com)
-- title: Google Scholar
-  icon: fa-graduation-cap (https://fontawesome.com/icons/graduation-cap?style=solid)
-  url: https://scholar.google.com/citations?user=8YvHALEAAAAJ
 - title: Email
-  icon: fa-mail-bulk
-  url: https://docs.google.com/forms/d/e/1FAIpQLSd8ffk7m9HMW_GGiCFigIL5msEmNklDI0OezFy8e0E2lEocqg/formResponse
-- title: Email
-  icon: fa-envelope
+  icon: fas fa-envelope
   url: https://docs.google.com/forms/d/e/1FAIpQLSd8ffk7m9HMW_GGiCFigIL5msEmNklDI0OezFy8e0E2lEocqg/formResponse
 
 
