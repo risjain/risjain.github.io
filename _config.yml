@@ -23,10 +23,10 @@ orcid_username: 0000-0001-5457-3929
 google_scholar_id: 8YvHALEAAAAJ
 email_via_form: https://docs.google.com/forms/d/e/1FAIpQLSd8ffk7m9HMW_GGiCFigIL5msEmNklDI0OezFy8e0E2lEocqg/formResponse
 
-additional_links:
-- title: Email
-  icon: fas fa-envelope
-  url: https://docs.google.com/forms/d/e/1FAIpQLSd8ffk7m9HMW_GGiCFigIL5msEmNklDI0OezFy8e0E2lEocqg/formResponse
+#additional_links:
+#- title: Email
+#  icon: fas fa-envelope
+#  url: https://docs.google.com/forms/d/e/1FAIpQLSd8ffk7m9HMW_GGiCFigIL5msEmNklDI0OezFy8e0E2lEocqg/formResponse
 
 
 # About Section
