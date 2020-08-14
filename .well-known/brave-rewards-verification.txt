@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: risjain.github.io
+Token: 9cb9d6b2c93b5152ed827b5b0a5a366bd0b6d7b9f12099bfc2a2e97d3934a503
