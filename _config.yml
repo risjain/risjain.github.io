@@ -75,3 +75,6 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+#Include Brave
+include: .well-known
