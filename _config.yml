@@ -75,6 +75,11 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-analytics
+
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-176591083-1      # Required - replace with your tracking id
 
 #Include Brave
 include: .well-known
