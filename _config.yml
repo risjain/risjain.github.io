@@ -34,10 +34,19 @@ email_via_form: https://docs.google.com/forms/d/e/1FAIpQLSd8ffk7m9HMW_GGiCFigIL5
 about_profile_image: images/profile.jpg
 link: https://risjain.github.io
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Rishabh. I am a research engineer at the National Renewable Energy Laboratory in the Power Systems Engineering Center. I am leading multiple research projects focused on transportation electrification, sustainable grid integration of renewables, networked microgrids, and market opportunities for grid support services. My expertise is in quasi-steady-state and real-time hardware-in-the-loop power system modeling, grid protection from faults, and, control, design and operation of microgrids. 
+  Hi, my name is Rishabh. I am a senior research engineer at the National Renewable Energy Laboratory in the Power Systems Engineering Center. I am leading multiple research projects focused on e-Mobility (transportation electrification), sustainable grid integration of renewables, networked microgrids, and market opportunities for grid support services. My expertise is in quasi-steady-state and real-time hardware-in-the-loop power system modeling, grid protection from faults, and, control, design and operation of microgrids. 
+  
+  I'm interested in developing scalable architecture with  
 
+# More Section
+more_title: What's New?
+more_content: | # this will include new lines to allow paragraphs
+  - [IEEE Transportation Electrification Conference and Expo (ITEC) 2021](https://itec-conf.com/call-for-papers/) : Track Chair for "Transportation Refueling Infrastructure"
+  - [Grid Coordination Opens Road for Electric Vehicle Flexibility](https://www.nrel.gov/news/features/2020/grid-coordination-opens-road-for-electric-vehicle-flexibility.html)
+  - [Collaboration with Intertie Inc.](https://gcxnrel.com/intertie-boosts-chargers-to-go-anywhere/)
+  
 # Projects Section
-projects_title: Ongoing Projects
+projects_title: Active Projects
 
 # Experience Section
 experience_title: Professional Experience
