@@ -2,8 +2,8 @@
 
 <!-- Your head content -->
 
-{% if jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
-
+    <!-- Include Analytics page if in production -->
+    {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+    {% endif %}
 </head>
