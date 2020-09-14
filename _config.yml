@@ -91,5 +91,7 @@ plugins:
 # Google services
 google_analytics: UA-176591083-1
 
+google_site_verification: kYpCqA3JumA-uix2hTrzJCwQaZaIGgMxoUy3P7wANJw
+
 #Include Brave
 include: .well-known
