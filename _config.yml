@@ -81,5 +81,8 @@ jekyll_analytics:
   GoogleAnalytics:
     id: UA-176591083-1      # Required - replace with your tracking id
 
+# Google services
+google_analytics: UA-176591083-1
+
 #Include Brave
 include: .well-known
