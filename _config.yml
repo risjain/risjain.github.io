@@ -38,9 +38,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   I'm interested in developing scalable architecture with  
 
-# More Section
-more_title: What's New?
-more_content: | # this will include new lines to allow paragraphs
+# What's New Section
+whatsnew_title: What's New?
+whatsnew_content: | # this will include new lines to allow paragraphs
   - [IEEE Transportation Electrification Conference and Expo (ITEC) 2021](https://itec-conf.com/call-for-papers/) : Track Chair for "Transportation Refueling Infrastructure"
   - [Grid Coordination Opens Road for Electric Vehicle Flexibility](https://www.nrel.gov/news/features/2020/grid-coordination-opens-road-for-electric-vehicle-flexibility.html)
   - [Collaboration with Intertie Inc.](https://gcxnrel.com/intertie-boosts-chargers-to-go-anywhere/)
@@ -86,9 +86,9 @@ plugins:
  - jekyll-seo-tag
  - jekyll-analytics
 
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-176591083-1      # Required - replace with your tracking id
+#jekyll_analytics:
+#  GoogleAnalytics:
+#    id: UA-176591083-1      # Required - replace with your tracking id
 
 # Google services
 google_analytics: UA-176591083-1
